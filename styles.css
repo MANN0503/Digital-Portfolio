@@ -248,20 +248,11 @@ h3{
     font-size: 40px;
     margin-top: 180px;
     width: 1300px;
-    margin-left:80px;
+    margin-left:120px;
     border-radius: 20px;
 }
 
-.testimonials-1-part{
-    font-size: 40px;
-    color: #ede0d4;
-}
 
-
-.testimonials-2-part{
-    font-size: 40px;
-    color: #ede0d4;
-}
 
 .testimonials-2{
     z-index: 2;
@@ -269,7 +260,7 @@ h3{
     font-size: 40px;
     margin-top: 400px;
     width: 1300px;
-    margin-left:80px;
+    margin-left:120px;
     border-radius: 20px;
 }
 
