@@ -216,7 +216,7 @@ h3{
 
 .testimonials{
     position: relative;
-    width: 1440px;
+    width: 1600px;
     height: 800px;
     margin-left: 100px;
 }
@@ -234,7 +234,7 @@ h3{
 .testimonials-img{
     background-size: cover;
     height: 800px;
-    width: 1440px;
+    width: 1600px;
     margin-left: 10px; 
     background-repeat: no-repeat;
     opacity: 0.9;
